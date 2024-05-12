@@ -8,11 +8,10 @@ This project provides a user-friendly interface for browsing a wide range of pro
 
 ## Deployment
 
-You can access the deployed version of our application [here](https://apps-task.onrender.com/).
+You can access the deployed version of our application http://localhost:3000/
 
-## Created By
 
-This project was created by Venkat Mahesh Reddy, a dedicated developer committed to building innovative and user-centric applications. You can find more about Venkat Mahesh Reddy on [his blog](https://blog-mern-cfpm.onrender.com/).
+
 
 ## Technologies Used
 
